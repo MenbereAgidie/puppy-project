@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+}
+.BluBG {
+  background-color: blue;
+  color: white;
+  font-size: 35px;
+}
+.missing {
+  background-color: red;
+  font-size: 5vw;
+}
+.puppy-1 img,
+.puppy-2 img {
+  height: 100%;
+}
